@@ -1,0 +1,15 @@
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\bin\Debug\net6.0\MyOptimalChangeApp.Console.exe
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\bin\Debug\net6.0\MyOptimalChangeApp.Console.deps.json
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\bin\Debug\net6.0\MyOptimalChangeApp.Console.runtimeconfig.json
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\bin\Debug\net6.0\MyOptimalChangeApp.Console.dll
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\bin\Debug\net6.0\MyOptimalChangeApp.Console.pdb
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.AssemblyInfo.cs
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.dll
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\refint\MyOptimalChangeApp.Console.dll
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.pdb
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\MyOptimalChangeApp.Console.genruntimeconfig.cache
+C:\Users\Test\source\repos\MyOptimalChangeApp\MyOptimalChangeApp.Console\obj\Debug\net6.0\ref\MyOptimalChangeApp.Console.dll
