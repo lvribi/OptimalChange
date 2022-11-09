@@ -3,8 +3,9 @@
     public class ChangeCoinService : IChangeCoinService
     {
         public Change OptimalChange(long monney)
-        
         {
+            if (monney < 2) return null;
+
             Change change = new Change(0,0,0);
             
             if(monney%10!=0 && monney%5!=0) 
